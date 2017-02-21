@@ -6,3 +6,4 @@ Also, here a list of gitub account who participated
 
 * Adi3000
 * JohnJulie
+* Zuliz
