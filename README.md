@@ -7,7 +7,8 @@ Also, here a list of gitub account who participated
 * [Adi3000](//github.com/Adi3000)
 * [JohnJulie](//github.com/JohnJulie)
 * [Zuliz](//github.com/Zuliz)
+* [ONeill59](//github.com/ONeill59)
 * [Pepito](//github.com/Nico385412)
-Edit par Granola
+* Edit par Granola
 * Florent Brassart ftw !
 * [Hyurt](//github.com/Hyurt)
