@@ -8,3 +8,4 @@ Also, here a list of gitub account who participated
 * [JohnJulie](//github.com/JohnJulie)
 * [Zuliz](//github.com/Zuliz)
 * Florent Brassart ftw !
+* [Hyurt](//github.com/Hyurt)
