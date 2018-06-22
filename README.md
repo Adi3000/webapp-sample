@@ -6,6 +6,7 @@ Also, here a list of gitub account who participated
 
 ## IG2I 2018 :
 
+* [iNo](//github.com/zarex5)
 * [SebSeptier](//github.com/sebastienseptier)
 
 ## IG2I 2017 :
